@@ -18,7 +18,7 @@ A simple, user-friendly Weather Application that provides real-time weather upda
 
 ## 🌐 Live Preview
 Check out the live version of this project:
-[Weather-App](https://weather-app-two-lovat-21.vercel.app/)
+[Weather-App](https://sanjeevanishivde.github.io/Weather-App/)
 
 ---
 
